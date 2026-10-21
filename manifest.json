@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "jupyterhub",
+  "repo": "docker-image-cleaner",
+  "versions": [
+    {
+      "commit": "b305d4fd0fd20c0ea38b2fbb6f93c83d3faaed19",
+      "parsed_at": "2026-10-21T22:09:12.816549+00:00",
+      "filetree": "filetree/b305d4fd0fd20c0ea38b2fbb6f93c83d3faaed19.nq.gz",
+      "blobs": [
+        "blob/e88d46af7d6a4df9c83f24532b2dc891d3e254a9.nq.gz",
+        "blob/166af91e07437f80b5e5a45183d0d9cf807349f8.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/582391ebeb30478f5124f89e64ec810e30fdeb47.nq.gz",
+        "blob/94dbd57b34ac8fa4b7ddb89d9c21380e968024c7.nq.gz",
+        "blob/d42a32aed056b167ec4ff4ea51c2dea09882e7cc.nq.gz",
+        "blob/112384716893c94c2cd47ccc84d6d22d7ddbdf51.nq.gz",
+        "blob/850b06229ac30ccbd1c1ea2e96bb7462d4dc7dbb.nq.gz",
+        "blob/e14168a24d4a0e86f82716ea7c60d07fe1fbdeae.nq.gz",
+        "blob/80121ee4b98ec77ad96c794184738baa17ae9c95.nq.gz",
+        "blob/b369eff202f37816c893908451d946f510e83fa2.nq.gz",
+        "blob/022bc12f0e70a6267515caab940ad220dd902196.nq.gz",
+        "blob/6bfc7d7a598dfb518999eddccec6cf4353d4b2f8.nq.gz",
+        "blob/d5175cd8ee9dda262431edb59f80affda8edbe11.nq.gz",
+        "blob/14fd90183e0dc6306acbc4643839343867e6ece9.nq.gz",
+        "blob/a77889c8b93ec4d0ebb73c64619e64ccd95d6c04.nq.gz",
+        "blob/31293bb81f3e3377049b5bebc7c6ae117d997caf.nq.gz",
+        "blob/5d539474bd6aafd67601d9845c70269fa60cb040.nq.gz",
+        "blob/3a01234989a8bfdbce46200a7fdf9e40b56e1cf5.nq.gz",
+        "blob/e834ca9d28a8df732751579823b3612e22dde650.nq.gz",
+        "blob/a0e1e05e178775f0a3e8a8d81534c62b8cbf2340.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
