@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/docker-image-cleaner/commit/b305d4fd0fd20c0ea38b2fbb6f93c83d3faaed19",
       "git:hexsha": "b305d4fd0fd20c0ea38b2fbb6f93c83d3faaed19",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jupyterhub/docker-image-cleaner/commit/7fe94ab6d25e8cb42826253ff64b3e950eb126ef",
